@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router";
 import { Menu, X, Calculator, ChevronDown } from "lucide-react";
 import { categories } from "@/data/categories";
-import { Button } from "@/components/ui/button";
+
 
 export function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -85,13 +85,6 @@ export function Header() {
           </Link>
         </nav>
 
-        {/* Auth CTA */}
-        <div className="hidden md:block">
-          <Button asChild size="sm" className="rounded-lg bg-primary px-4 text-white shadow-sm shadow-primary/20 hover:bg-primary/90">
-            <Link to="/auth">Sign In</Link>
-          </Button>
-        </div>
-
         {/* Mobile toggle */}
         <button
           className="rounded-lg p-2 text-muted-foreground hover:bg-secondary md:hidden"
@@ -138,9 +131,7 @@ export function Header() {
             >
               Contact
             </Link>
-            <Button asChild size="sm" className="mt-2 w-full rounded-lg bg-primary text-white">
-              <Link to="/auth" onClick={() => setMobileOpen(false)}>Sign In</Link>
-            </Button>
+
           </div>
         </div>
       )}
