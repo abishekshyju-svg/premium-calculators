@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Static Pages -->
+  <url>
+    <loc>https://www.calcpro.com/</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.calcpro.com/about</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.calcpro.com/contact</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.calcpro.com/privacy</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.calcpro.com/terms</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.calcpro.com/disclaimer</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Finance Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/finance</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/emi-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/sip-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/compound-interest-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/simple-interest-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/fd-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/rd-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/gst-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/loan-eligibility-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/savings-goal-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/discount-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Health Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/health</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/bmi-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/bmr-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/calorie-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/water-intake-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/ideal-weight-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/body-fat-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/pregnancy-due-date-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/ovulation-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/macro-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/heart-rate-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Education Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/education</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/percentage-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/gpa-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/cgpa-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/grade-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/attendance-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/average-marks-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/exam-score-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/study-time-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/rank-predictor-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/age-calculator-admission</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Math Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/math</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/percentage-increase-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/percentage-decrease-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/profit-and-loss-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/ratio-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/fraction-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/lcm-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/hcf-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/decimal-to-fraction-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/square-root-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/scientific-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Unit Conversion Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/unit-conversion</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/length-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/weight-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/temperature-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/area-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/volume-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/speed-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/time-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/pressure-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/energy-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/data-storage-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Business Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/business</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/profit-margin-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/break-even-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/roi-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/sales-tax-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/commission-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/pricing-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/payroll-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/inventory-turnover-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/invoice-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/markup-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Real Estate Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/real-estate</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/home-loan-emi-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/mortgage-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/down-payment-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/rent-vs-buy-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/property-tax-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/stamp-duty-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/rental-yield-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/construction-cost-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/affordability-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/land-area-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Lifestyle Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/lifestyle</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/age-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/date-difference-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/tip-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/fuel-cost-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/trip-budget-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/sleep-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/birthday-countdown-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.calcpro.com/calc/love-percentage-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.calcpro.com/calc/electricity-bill-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/time-zone-converter</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Tech Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/tech</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/internet-speed-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/download-time-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/bandwidth-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/file-size-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/screen-size-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/aspect-ratio-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/binary-to-decimal-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/decimal-to-binary-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/ip-subnet-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/compression-ratio-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Construction Category -->
+  <url>
+    <loc>https://www.calcpro.com/category/construction</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url><loc>https://www.calcpro.com/calc/concrete-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.calcpro.com/calc/cement-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/brick-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/paint-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/tile-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/steel-weight-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/plaster-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/flooring-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/stair-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/calc/tank-volume-calculator</loc><lastmod>2025-01-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+</urlset>
