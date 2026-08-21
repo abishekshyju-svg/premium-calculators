@@ -66,6 +66,12 @@ export function Header() {
             )}
           </div>
           <Link
+            to="/blog"
+            className="rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-secondary/60 hover:text-foreground"
+          >
+            Blog
+          </Link>
+          <Link
             to="/about"
             className="rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-secondary/60 hover:text-foreground"
           >
@@ -111,6 +117,13 @@ export function Header() {
             ))}
           </div>
           <div className="mt-4 flex flex-col gap-2 border-t border-border/60 pt-4">
+            <Link
+              to="/blog"
+              className="rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground hover:bg-secondary/60"
+              onClick={() => setMobileOpen(false)}
+            >
+              Blog
+            </Link>
             <Link
               to="/about"
               className="rounded-lg px-3 py-2 text-sm font-medium text-muted-foreground hover:bg-secondary/60"

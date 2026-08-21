@@ -38,6 +38,26 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://www.calcpro.com/blog</loc>
+    <lastmod>2025-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url><loc>https://www.calcpro.com/blog/how-to-calculate-emi-at-home</loc><lastmod>2025-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/understanding-bmi-what-your-number-means</loc><lastmod>2025-01-12</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/compound-interest-vs-simple-interest</loc><lastmod>2025-01-10</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/how-to-calculate-gpa-cgpa</loc><lastmod>2025-01-08</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/profit-margin-formula-explained</loc><lastmod>2025-01-05</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/home-loan-emi-vs-rent</loc><lastmod>2025-01-03</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/internet-speed-explained-mbps-vs-mbs</loc><lastmod>2025-01-01</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/how-to-calculate-concrete-for-your-project</loc><lastmod>2024-12-28</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/percentage-calculations-everyone-should-know</loc><lastmod>2024-12-25</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/sip-investment-guide-for-beginners</loc><lastmod>2024-12-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/weight-conversion-guide</loc><lastmod>2024-12-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.calcpro.com/blog/tile-calculation-guide-for-your-home</loc><lastmod>2024-12-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
   <!-- Finance Category -->
   <url>

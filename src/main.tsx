@@ -21,6 +21,8 @@ const TermsPage = lazy(() => import("./pages/Terms.tsx"));
 const AboutPage = lazy(() => import("./pages/About.tsx"));
 const ContactPage = lazy(() => import("./pages/Contact.tsx"));
 const DisclaimerPage = lazy(() => import("./pages/Disclaimer.tsx"));
+const BlogPage = lazy(() => import("./pages/Blog.tsx"));
+const BlogPostPage = lazy(() => import("./pages/BlogPost.tsx"));
 
 // Simple loading fallback for route transitions
 function RouteLoading() {
@@ -136,6 +138,8 @@ createRoot(document.getElementById("root")!).render(
               <Route path="/about" element={<AboutPage />} />
               <Route path="/contact" element={<ContactPage />} />
               <Route path="/disclaimer" element={<DisclaimerPage />} />
+              <Route path="/blog" element={<BlogPage />} />
+              <Route path="/blog/:slug" element={<BlogPostPage />} />
               <Route path="*" element={<NotFound />} />
             </Routes>
           </Suspense>
