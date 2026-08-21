@@ -1,4 +1,4 @@
-import { CalculatorMeta } from "./types";
+import { CalculatorMeta } from "../types";
 
 export const businessCalculators: CalculatorMeta[] = [
   {
